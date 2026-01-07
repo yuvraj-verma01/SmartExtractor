@@ -1,0 +1,15 @@
+# Lease data (inputs/outputs)
+app/jobs/
+app/export/
+data/input_pdfs/
+data/ocr_text/
+data/outputs/
+*.xlsx
+*.xls
+
+# Local env/build artifacts
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc

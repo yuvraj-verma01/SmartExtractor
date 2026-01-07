@@ -1,4 +1,4 @@
-# Lease extractor by Yuvraj Verma
+# SmartExtractor by Yuvraj Verma
 
 Local-only application that productizes the existing lease extraction pipeline. It runs the original scripts, stores every job on disk, and enforces a full human review before any export.
 

@@ -1,12 +1,12 @@
-# SmartExtractor by Yuvraj Verma
+# SmartExtractor 
+
+![UI Screenshot](assets/site_redacted.png)
 
 ## What this app does
 - Runs the extraction pipeline and extracts lease details.
 - Forces every excel field through a required human-review step.
 - Stores jobs locally with a full audit log (all changes are trackable).
 - Exports a single shared Excel file where each job is one row.
-
-![UI Screenshot](assets/site_redacted.png)
 
 ## Features
 - End-to-end pipeline orchestration (Stages 1-3) [1: OCR Conversion; 2: Deterministic Extraction; 3: LLM-aided Extraction]
